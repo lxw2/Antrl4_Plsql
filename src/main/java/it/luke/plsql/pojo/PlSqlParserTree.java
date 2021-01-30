@@ -8,7 +8,6 @@ import org.antlr.v4.runtime.TokenStreamRewriter;
 import org.antlr.v4.runtime.tree.ParseTree;
 
 /**
- * Класс для объединения всей логики парсинга для использования его в
  * PlSqlRuleVisitor
  */
 public class PlSqlParserTree {
